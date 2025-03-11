@@ -41,6 +41,8 @@ The datasets used in this study can be accessed from the following sources:
 - **MLROD Dataset:**[Download Link](https://odr.io/MLROD)
 - **RRUFF Database:**[Visit Site](https://rruff.info/)
 
+## Paper
+[Deep learning-assisted Raman spectroscopy for automated identification of specific minerals](https://www.sciencedirect.com/science/article/pii/S1386142525001490)
 
 ## Contact
 Zhen-hong Du: [duzhenhong@zju.edu.cn](mailto:duzhenhong@zju.edu.cn)
